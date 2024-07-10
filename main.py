@@ -6,7 +6,7 @@ topics = ["q=tesla", "q=apple", "country=us&category=business",
           "sources=techcrunch", "domains=wsj.com"]
 
 # Get your API key from https://newsapi.org/
-api_key = "25598cc03b8b4ed9ba7dd3a169fa124c"
+api_key = "YOUR API KEY"
 
 message = """\
 Subject: Today's News
